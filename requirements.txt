@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+langchain==0.2.0
+langchain-community
+unstructured
+pypdf
+python-docx
+python-pptx
+faiss-cpu
+sentence-transformers
+huggingface_hub
+python-dotenv
